@@ -1,0 +1,6 @@
+com/example/product_api/dto/ProductDTO.class
+com/example/product_api/service/ProductService.class
+com/example/product_api/ProductApiApplication.class
+com/example/product_api/model/Product.class
+com/example/product_api/repository/ProductRepository.class
+com/example/product_api/controller/ProductController.class
