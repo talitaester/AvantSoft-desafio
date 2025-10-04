@@ -32,7 +32,13 @@ public class ProductService {
     }
 
     public Product update(ProductDTO dto){
-        return productRepository.save(moveToEntity(dto));
+        Product existingProduct = getById(dto.id());
+        
+        existingProduct.setName(dto.name());
+        existingProduct.setPrice(dto.price());
+        existingProduct.setSku(dto.sku());
+        
+        return productRepository.save(existingProduct);
     }
 
     public List<Product> get(){

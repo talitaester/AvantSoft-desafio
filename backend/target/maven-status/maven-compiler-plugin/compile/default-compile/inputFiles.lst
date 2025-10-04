@@ -1,6 +1,7 @@
-/home/inovarparapessoasnegras/Downloads/product-api/src/main/java/com/example/product_api/ProductApiApplication.java
-/home/inovarparapessoasnegras/Downloads/product-api/src/main/java/com/example/product_api/controller/ProductController.java
-/home/inovarparapessoasnegras/Downloads/product-api/src/main/java/com/example/product_api/dto/ProductDTO.java
-/home/inovarparapessoasnegras/Downloads/product-api/src/main/java/com/example/product_api/model/Product.java
-/home/inovarparapessoasnegras/Downloads/product-api/src/main/java/com/example/product_api/repository/ProductRepository.java
-/home/inovarparapessoasnegras/Downloads/product-api/src/main/java/com/example/product_api/service/ProductService.java
+C:\Users\Talit\repos\AvantSoft-desafio\backend\src\main\java\com\example\product_api\controller\ProductController.java
+C:\Users\Talit\repos\AvantSoft-desafio\backend\src\main\java\com\example\product_api\dto\ProductDTO.java
+C:\Users\Talit\repos\AvantSoft-desafio\backend\src\main\java\com\example\product_api\model\Product.java
+C:\Users\Talit\repos\AvantSoft-desafio\backend\src\main\java\com\example\product_api\ProductApiApplication.java
+C:\Users\Talit\repos\AvantSoft-desafio\backend\src\main\java\com\example\product_api\repository\ProductRepository.java
+C:\Users\Talit\repos\AvantSoft-desafio\backend\src\main\java\com\example\product_api\service\ProductService.java
+C:\Users\Talit\repos\AvantSoft-desafio\backend\src\main\java\com\example\product_api\service\SecurityService.java

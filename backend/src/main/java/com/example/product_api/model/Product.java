@@ -11,6 +11,7 @@ import java.util.UUID;
 import java.util.stream.Collectors;
 
 @Entity
+@Table(name = "products")
 public class Product {
     @Id
     @GeneratedValue(strategy = GenerationType.UUID)
@@ -24,7 +25,7 @@ public class Product {
     @Column(nullable = false)
     private Double price;
 
-    @Column(unique = true, nullable = false, updatable = false)
+    @Column( unique =  true, nullable = false, updatable = false)
     private String sku;
 
 

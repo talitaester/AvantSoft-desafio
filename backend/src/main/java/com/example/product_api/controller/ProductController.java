@@ -67,7 +67,8 @@ public class ProductController {
                 product.getId(),
                 product.getName(),
                 product.getPrice(),
-                product.getSku()
+                product.getSku(),
+                missingLetter
         );
     }
 }
