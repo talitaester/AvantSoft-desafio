@@ -212,7 +212,7 @@ export default function Home() {
           {/* Formulário */}
           <div className="lg:col-span-1">
             <div className="bg-white rounded-lg shadow-md p-6 sticky top-8">
-              <h2 className="text-xl font-semibold text-gray-900 mb-6">
+              <h2 className="text-xl font-semibold text-black mb-6">
                 {editingProduct ? '✏️ Editar Produto' : '📝 Cadastrar Produto'}
               </h2>
               
