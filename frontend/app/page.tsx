@@ -131,8 +131,8 @@ export default function Home() {
       alert(`Produto ${editingProduct ? 'atualizado' : 'cadastrado'} com sucesso!`);
       
     } catch (error) {
-      console.error('Erro ao salvar produto:', error);
-      setError('Erro ao salvar produto: ' + (error as Error).message);
+      console.error( error);
+      setError((error as Error).message);
     } finally {
       setLoading(false);
     }
