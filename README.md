@@ -24,7 +24,7 @@ Isso irá subir:
 - **Frontend** (porta 3000)
 
 **Acesse:**
-- API: http://localhost:8090
+- API: http://localhost:8080
 - Frontend: http://localhost:3000
 - Banco: localhost:5432
 
