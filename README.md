@@ -57,3 +57,7 @@ os atributos necessários para criar um produto são:
 - name: String
 - price: Double
 - sku: String
+
+### Aplicação em funcionamento 
+<img width="1830" height="916" alt="image" src="https://github.com/user-attachments/assets/eea5dcf0-67e9-451d-82a3-92373d5840dc" />
+
